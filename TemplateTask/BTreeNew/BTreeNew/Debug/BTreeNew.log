@@ -1,0 +1,4 @@
+﻿  BinaryTree.cpp
+C:\Users\Дмитрий Лаптев\source\repos\BTreeNew\BTreeNew\BinaryTree.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дмитрий Лаптев\source\repos\BTreeNew\BTreeNew\BinaryTree.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+  BTreeNew.vcxproj -> C:\Users\Дмитрий Лаптев\source\repos\BTreeNew\Debug\BTreeNew.exe
